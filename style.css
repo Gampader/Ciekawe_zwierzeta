@@ -1,0 +1,87 @@
+body {
+    background-color: #b4bcb4;
+   text-decoration-color: #34373a;
+   font-family: Trebuchet MS,Verdana,sans-serif;
+}
+footer {
+    padding: 10px;
+    clear: both;
+    background-color: darkslategray;
+    width: 140px;
+    border-radius: 30px;
+    border: 5px double darkgoldenrod
+}
+section {
+   margin: 10px;
+   width: 460px;
+   border-radius: 30px;
+   background-color: darkslategrey;
+   padding: 10px;
+  border: 5px solid rgba(169, 169, 169, 0.74); 
+}
+article {
+
+width: 420px;
+border-radius: 30px;
+background-color: darkslategrey;
+margin: 10px;
+
+}
+a:link {
+    color:olive;
+}
+header {
+width: 980px;
+padding: 10px;
+}
+a:visited {
+  color: olivedrab;
+}a:hover {
+    color: darkgoldenrod;
+}
+a:active {
+    color: darkolivegreen;
+}
+aside {
+clear: both;
+width: 460px;
+}
+img:hover {
+    width: 420px;
+    transition: 0.5s;
+}
+img {
+    width: 400px;
+    transition: 1s;
+}
+.raz {
+    background-color:rgb(245, 211, 160); 
+    border-radius: 30px;
+    border: 5px double darksalmon;
+    font-family: Trebuchet MS;
+}
+.dwa {
+    background-color: #b4bcb4;
+}
+.trzy {
+    clear: both;
+}
+.flot {
+    float: left;
+}
+nav {
+    font-family:Century Gothic,"lucida console,cursive",cursive;
+    float: left;
+}
+.kukla {
+    margin: 10px;
+}
+.brak {
+    border: 5px solid rgb(87, 79, 109);
+    margin: 5px;
+}
+.imgg{
+    width: 250px;
+    margin: 10px;
+}
+
